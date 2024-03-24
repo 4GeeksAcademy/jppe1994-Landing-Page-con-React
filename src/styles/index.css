@@ -10,3 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.fondoNavbar{
+    background: grey;
+}
+.fondoJumbotron{
+    background: rgb(180, 180, 180);
+}
